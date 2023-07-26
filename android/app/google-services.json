@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "298570300608",
+    "project_id": "mita-2bc93",
+    "storage_bucket": "mita-2bc93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298570300608:android:d58e4a5a9f2168790a0125",
+        "android_client_info": {
+          "package_name": "com.bfnm.mita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298570300608-6pbcte4tuqq81bn71t9i8kkmphlgqgmr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bfnm.mita",
+            "certificate_hash": "6a62dcb1bd69b4e366718e63a5bc863f7861a667"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY2Z4_KdBApYhTOnkkJ8gq0qIyaO03kbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298570300608-n7ci6qiqrl5davppj4nf9p4tep3g6egr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
